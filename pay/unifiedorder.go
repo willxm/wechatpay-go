@@ -8,7 +8,8 @@ import (
 	"io/ioutil"
 	"net/http"
 	"strings"
-	"wxpay/tool"
+
+	"github.com/willxm/wechatpay-go/tool"
 )
 
 type UnifyOrderReq struct {

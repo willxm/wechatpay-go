@@ -1,5 +1,5 @@
-# WechatPayGo
-微信支付go sdk
+# wechatpay-go
+微信支付 go sdk
 ---
 - [x] 统一下单接口
 - [x] 支付回调接口
