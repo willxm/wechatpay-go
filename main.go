@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"wxpay/pay"
+
+	"github.com/willxm/wechatpay-go/pay"
 )
 
 func main() {
